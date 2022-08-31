@@ -1,0 +1,10 @@
+<nav>
+    <!-- <a href="/">Syllabus</a>
+    <a href="/schedule.html">Schedule + Class Notes</a>
+    <a href="/assignments.html">Assignments</a> -->
+    {% for item in site.data.navigation %}
+        <a href="{{ item.link }}" {% if page.url == item.link %}class="nav-current"{% endif %}>
+        {{ item.name }}
+        </a>
+    {% endfor %}
+</nav>
