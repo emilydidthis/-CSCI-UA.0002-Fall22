@@ -4,5 +4,41 @@ layout: default
 title: Assignments
 
 ---
+<div class="assignments" markdown="1">
+<div class="column-1" markdown="1">
 
 ## Assignments
+Assignments
+There will be 11 programming-intensive assignments, usually given at the start of each programming workshop. In general, assignments are due one week after they are assigned. All assignments—including attachments—should be submitted via NYU Brightspace.
+
+## Submitting Assignments
+1. Save each Python program file with the following naming convention: lastname_firstname_assignment.py
+2. Log into NYU Brightspace with your NYU NetID and password.
+3. Select the appropriate class.
+4. Navigate to assignments and the corresponding assignment.
+5. Add whatever comments you may need to your submission.
+6. Attach files as necessary, making sure that the file appears as an attachment before you continue.
+7. When you are ready, submit your work and wait for confirmation before closing the browser window.
+8. Once you have submitted an assignment you can only resubmit it up until the time it is due. Make sure that what you are submitting is the final version of your work.
+
+## Policies
+Assignments that you turn in should be your own work. You may discuss how to do an assignment with a partner, but your code must be unique. If you do collaborate on ideas (and ideas only), please write a comment that you worked together at the top of your assignment. For reference, here is the Computer Science Department’s [statement on academic integrity](https://cs.nyu.edu/home/undergrad/policy.html).
+
+
+Do your best to keep up with assignments. 10% will be deducted for each class day late, with a possible maximum of 30% being deducted for each assignment. Homework will not be accepted past the third class after its assigned due date without prior permission. Likewise, no assignments will be accepted after the final exam.
+
+### Grace Days
+Sometimes there are unforeseen situations that may impede your progress. As a result you are being given **10 grace days for the entire semester**. These grace days cover all late submissions regardless of personal, professional, or technical related delays (e.g. a job interview, computer hardware failure, etc.) and no further exceptions will be granted (so don't waste them simply by procrastinating). You don't need to do anything special to use these "grace" days - the course graders will keep track of these on your behalf and will apply them to your work as necessary.
+</div>
+
+<div class="column-2" markdown="1">
+
+## Assignment #1 
+Assignment date: Tuesday, September 6  
+Due date: Tuesday, September 9
+
+
+</div>
+
+
+</div>

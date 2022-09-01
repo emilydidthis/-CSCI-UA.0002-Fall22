@@ -1,6 +1,6 @@
 - name: Syllabus
   link: /
-- name: Schedule
+- name: Schedule + Class Notes
   link: /schedule.html
 - name: Assignments
   link: /assignments.html
