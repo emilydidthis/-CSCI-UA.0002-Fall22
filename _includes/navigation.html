@@ -5,13 +5,13 @@
     <div class="nav-section">
     {% for item in site.data.navigation %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ item.link }}" {% if page.url == item.link %}class="nav-current"{% endif %}>
-        {{ item.name }}
+        <span>*&nbsp;</span>{{ item.name }}
         </a>
     {% endfor %}
     </div>
     <div class="nav-section">
-        <a href="https://brightspace.nyu.edu/d2l/home/223178">Brightspace</a>
-        <a href="https://edstem.org/us/courses/23744/discussion/">Ed Forum</a>
-        <a href="https://pollev.com/emilyzhao">Poll Everywhere</a>
+        <a href="https://brightspace.nyu.edu/d2l/home/223178"><span>*&nbsp;</span>Brightspace</a>
+        <a href="https://edstem.org/us/courses/23744/discussion/"><span>*&nbsp;</span>Ed Forum</a>
+        <a href="https://pollev.com/emilyzhao"><span>*&nbsp;</span>Poll Everywhere</a>
     </div>      
 </nav>
