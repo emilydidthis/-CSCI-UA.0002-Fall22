@@ -66,7 +66,8 @@ To do:
 
 ### Materials
 <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/02_module-1.pdf" download>Slides</a>
-<a href="{{ site.url }}{{ site.baseurl }}/code/class-02-debugging.py" download>debugging.py</a>
+<a href="{{ site.url }}{{ site.baseurl }}/code/02-class-debugging.py" download>debugging.py</a>
+<a href="{{ site.url }}{{ site.baseurl }}/code/02-class-comments.py" download>commented-code.py</a>
 </div>
 </div>
 <br>
