@@ -180,6 +180,58 @@ nav {
     width: 10%;
 }
 
+// Assignments Pages
+.assignment-page{
+    width: 70%;
+    border-left: 2px solid #2E38B7
+    h2, h3, p {
+        border-left: none;
+        box-shadow: none;
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    // Code styling
+    .highlight:not(pre) {
+        border-left: 2px solid #A42EB7;
+        /* two shadows to create a 2px left outline */
+        box-shadow: 
+            -13px 0 0 #FFF,
+            -15px 0 0 #2E38B7;
+
+        margin: 0px 15px;
+        white-space: pre-wrap;   
+    }
+
+    pre {
+        background-color: rgb(244, 244, 244);
+        padding: 10px;
+        margin-left: 15px;
+    }
+
+    h3 ~ p { 
+        border-left: 2px solid #A42EB7;
+        margin-left: 15px;
+        padding: 5px 15px;
+        // padding-bottom: 10px;
+        box-shadow: 
+            -13px 0 0 #FFF,
+            -15px 0 0 #000;
+    }
+
+    .section-break {
+        box-shadow: 
+            -13px 0 0 #FFF,
+            -15px 0 0 #2E38B7;
+        border-left: none;
+        margin-left: 15px;
+    }
+    
+
+}
+
+
+
 @media only screen and (max-width: 900px) {
     .syllabus, .assignments, .week {
         flex-direction: column;
@@ -196,6 +248,10 @@ nav {
         .topics, .assigned, .materials {
             width: 100%;
         }
+    }
+
+    .assignment-page{
+        width: 100%;
     }
 
 }

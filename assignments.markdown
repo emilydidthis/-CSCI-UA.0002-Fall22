@@ -33,7 +33,7 @@ Sometimes there are unforeseen situations that may impede your progress. As a re
 
 <div class="column-2" markdown="1">
 
-## Assignment #1 
+## [**Assignment #1**]({{ site.url }}{{ site.baseurl }}/assignments/01.html) 
 Assignment date: Tuesday, September 6  
 Due date: Tuesday, September 9
 
