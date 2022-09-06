@@ -12,10 +12,11 @@ title: Intro to Computer Programming – Fall 2022
 <div class="syllabus" markdown="1">
 <div class="column-1" markdown="1">
 
-## Useful Links
+<!-- ## Useful Links
 [Brightspace](https://brightspace.nyu.edu/d2l/home/223178) | 
 [Ed Forum](https://edstem.org/us/courses/23744/discussion/) | 
-[Poll Everywhere](https://pollev.com/emilyzhao)
+[Poll Everywhere](https://pollev.com/emilyzhao) -->
+
 ## CSCI-UA.0002-011
 Tuesday/Thursday, 4:55-6:10PM  
 Room: GCASL Room 361
