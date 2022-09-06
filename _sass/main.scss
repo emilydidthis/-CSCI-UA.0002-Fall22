@@ -95,6 +95,11 @@ nav {
     li {
         display: block;
     }
+    display: flex;
+    
+    .nav-section {
+        margin-right: 70px;
+    }
 }
 
 .nav-current::before {

@@ -2,9 +2,16 @@
     <!-- <a href="/">Syllabus</a>
     <a href="/schedule.html">Schedule + Class Notes</a>
     <a href="/assignments.html">Assignments</a> -->
+    <div class="nav-section">
     {% for item in site.data.navigation %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ item.link }}" {% if page.url == item.link %}class="nav-current"{% endif %}>
         {{ item.name }}
         </a>
     {% endfor %}
+    </div>
+    <div class="nav-section">
+        <a href="https://brightspace.nyu.edu/d2l/home/223178">Brightspace</a>
+        <a href="https://edstem.org/us/courses/23744/discussion/">Ed Forum</a>
+        <a href="https://pollev.com/emilyzhao">Poll Everywhere</a>
+    </div>      
 </nav>
