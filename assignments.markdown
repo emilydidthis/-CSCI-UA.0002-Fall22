@@ -35,7 +35,7 @@ Sometimes there are unforeseen situations that may impede your progress. As a re
 
 ## [**Assignment #1**]({{ site.url }}{{ site.baseurl }}/assignments/01.html) 
 Assignment date: Tuesday, September 6  
-Due date: Tuesday, September 9
+Due date: Tuesday, September 13
 
 
 </div>
