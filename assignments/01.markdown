@@ -93,7 +93,7 @@ You have recently been hired by a local bakery to design a program that simplifi
 1 gallon = 4 quarts  
 1 floz = 29.5735 ml  
 
-Using the conversions above, design a program that converts 250 milliliters into US Fluid Volume units. Here's a sample running of your program - ensure that your output matches the output below (i.e. your items should line up in columns just like the output displayed below). Try your best to programatically figure out the spaces; I don't want to see empty strings like this "               "). When programming, it's best to imagine that the content might change and it's best not to "hard-code" strings with a certain amount of spaces. Do not worry about decimal point precision for this program (no numeric formatting required).
+Using the conversions above, design a program that converts 250 milliliters into US Fluid Volume units. Here's a sample running of your program - ensure that your output matches the output below (i.e. your items should line up in columns just like the output displayed below). Try your best to programatically figure out the spaces; I don't want to see strings like this "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mL"). When programming, it's best to imagine that the content might change and it's best not to "hard-code" strings with a certain amount of spaces. Do not worry about decimal point precision for this program (no numeric formatting required).
 
 No user input is required for this program.
 
