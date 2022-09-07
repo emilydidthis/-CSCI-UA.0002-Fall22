@@ -41,7 +41,7 @@ LastNameFirstName_assign1_problem1.py (for example, "ZhaoEmily_assign1_problem1.
 <div class="section-break"><br><br></div>
 
 ### Problem #2: Using the print function
-Prompt the user to enter 3 names. Store each name in a separate variable. Then display the names back to the user in every possible order using the output below as a guide. Note the formatting in the output below - make your program match the formatting exactly. Items that are underlined indicate that the user has input those values (you don't need to replicate the underlines in your program)
+Prompt the user to enter 3 names. Store each name in a separate variable. Then display the names back to the user in every possible order using the output below as a guide. Note the formatting in the output below - make your program match the formatting exactly. 
 
 Sample input/output:
 
@@ -85,13 +85,13 @@ LastNameFirstName_assign1_problem2.py (for example, "ZhaoEmily_assign1_problem2.
 ### Problem #3: Math Expressions
 You have recently been hired by a local bakery to design a program that simplifies the conversion of recipe measurements. To help you get started, the bakery has provided you with a list of common conversions:
 
-1 ml = 0.202884 tsp
-1 tbsp = 3 tsp
-1 cup = 16 tbsp
-1 pint = 2 cups
-1 quart = 2 pints
-1 gallon = 4 quarts
-1 floz = 29.5735 ml
+1 ml = 0.202884 tsp   
+1 tbsp = 3 tsp  
+1 cup = 16 tbsp  
+1 pint = 2 cups  
+1 quart = 2 pints  
+1 gallon = 4 quarts  
+1 floz = 29.5735 ml  
 
 Using the conversions above, design a program that converts 250 milliliters into US Fluid Volume units. Here's a sample running of your program - ensure that your output matches the output below (i.e. your items should line up in columns just like the output displayed below). Do not worry about decimal point precision for this program (no numeric formatting required)
 
