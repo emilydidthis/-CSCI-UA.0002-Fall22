@@ -169,7 +169,7 @@ nav {
     }
 }
 .topics{
-    width: 45%;
+    width: 35%;
 }
 
 .assigned{
@@ -177,7 +177,11 @@ nav {
 }
 
 .materials{
-    width: 10%;
+    width: 15%;
+    a {
+        display: block;
+        padding: 5px 0px;
+    }
 }
 
 // Assignments Pages
@@ -228,6 +232,13 @@ nav {
     }
     
 
+}
+
+// code that is not inside of a pre (aka code blocks)
+code:not(pre code) {
+    background-color: rgb(244, 244, 244);
+    padding: 3px;
+    font-weight: 500;
 }
 
 
