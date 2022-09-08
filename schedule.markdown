@@ -101,7 +101,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-Slides  
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/03_module-2.pdf" download>Slides</a> 
 Code
 </div>
 </div>
