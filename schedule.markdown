@@ -58,7 +58,7 @@ Due:
 - Gaddis (textbook) Chapters #1 & #2 (Third Edition: Chapters 1 & 2; Second Edition: Chapters 1 & 2)
 
 To do:  
-- Assignment #1
+- [Assignment #1]({{ site.url }}{{ site.baseurl }}/assignments/01.html)
 - [Self-Paced Learning Module #2](https://cs.nyu.edu/elearning/CSCI_UA_0002/module02.php)
 - [Quiz #2](https://brightspace.nyu.edu/d2l/home/223178)
 </div>
@@ -119,12 +119,12 @@ Tuesday, September 13
 
 ### Assigned
 Due:  
-- Assignment #1
+- [Assignment #1]({{ site.url }}{{ site.baseurl }}/assignments/01.html)
 - Gaddis (textbook) Chapter #2
 (Third Edition: Chapter 2; Second Edition: Chapter 2)
 
 To do:  
-- Assignment #2
+- [Assignment #2]({{ site.url }}{{ site.baseurl }}/assignments/02.html)
 </div>
 <div class="week-column materials" markdown="1">
 
@@ -184,7 +184,7 @@ Tuesday, September 20
 
 ### Assigned
 Due:  
-- Assignment #2
+- [Assignment #2]({{ site.url }}{{ site.baseurl }}/assignments/02.html)
 - Gaddis (textbook) Chapter #3
 (Third Edition: Chapter 3; Second Edition: Chapter 4)
 
