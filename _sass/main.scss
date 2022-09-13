@@ -230,8 +230,6 @@ nav {
         border-left: none;
         margin-left: 15px;
     }
-    
-
 }
 
 // code that is not inside of a pre (aka code blocks)
@@ -241,7 +239,14 @@ code:not(pre code) {
     font-weight: 500;
 }
 
-
+// tables
+.table {
+    pre, code {
+        background-color: #FFF;
+        font-family: IBM Plex Sans;
+        padding: 0px;
+    }
+}
 
 @media only screen and (max-width: 900px) {
     .syllabus, .assignments, .week {

@@ -105,6 +105,7 @@ To do:
 Code
 </div>
 </div>
+asdfkasdfhsadkfj 
 
 <!-- ------------------------------------------------ -->
 ## Week 3
@@ -474,7 +475,7 @@ Thursday, October 27
 <div class="week-column assigned" markdown="1">
 
 ### Assigned
-To do:  
+Due:  
 - Assignment #6
 </div>
 </div>
@@ -626,7 +627,7 @@ Code
 </div>
 <br>
 <!-- ------------------------------------------------ -->
-Thursday, November 10
+Thursday, November 17
 <div class="week" markdown="1">
 <div class="week-column topics" markdown="1">
 
@@ -787,7 +788,7 @@ Thursday, December 8
 
 <!-- ------------------------------------------------ -->
 ## Week 16
-Tuesday, December 6
+Tuesday, December 13
 <div class="week" markdown="1">
 <div class="week-column topics" markdown="1">
 
@@ -798,7 +799,7 @@ Tuesday, December 6
 </div>
 <br>
 <!-- ------------------------------------------------ -->
-Thursday, December 8
+Thursday, December 15
 <div class="week" markdown="1">
 <div class="week-column topics" markdown="1">
 

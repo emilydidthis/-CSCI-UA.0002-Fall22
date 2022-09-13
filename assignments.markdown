@@ -21,6 +21,9 @@ There will be 11 programming-intensive assignments, usually given at the start o
 7. When you are ready, submit your work and wait for confirmation before closing the browser window.
 8. Once you have submitted an assignment you can only resubmit it up until the time it is due. Make sure that what you are submitting is the final version of your work.
 
+## Getting Feedback on Your Assignments
+If you believe the grading on an assignment is unfair or if you have questions as to why you received a certain grade, please fill out this [**form**](https://docs.google.com/forms/d/1C-_lX4BAw6n7yHhZnC98Ii5wDc0rEVOmkArHXGC7KZ8/edit). Note that all grading inquiries must be submitted within 21 days (3 weeks) of the assignment's original closing date.
+
 ## Policies
 Assignments that you turn in should be your own work. You may discuss how to do an assignment with a partner, but your code must be unique. If you do collaborate on ideas (and ideas only), please write a comment that you worked together at the top of your assignment. For reference, here is the Computer Science Department’s [statement on academic integrity](https://cs.nyu.edu/home/undergrad/policy.html).
 
@@ -37,6 +40,9 @@ Sometimes there are unforeseen situations that may impede your progress. As a re
 Assignment date: Tuesday, September 6  
 Due date: Tuesday, September 13
 
+## [**Assignment #2**]({{ site.url }}{{ site.baseurl }}/assignments/02.html) 
+Assignment date: Tuesday, September 13  
+Due date: Tuesday, September 20
 
 </div>
 
