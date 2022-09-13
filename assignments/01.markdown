@@ -101,17 +101,16 @@ Hint: Make sure that IDLE is set up to use a fixed-width font (Courier is the fo
 
 ```
 --------------------------------------------------------------
-		mL to US Fluid Volume Units
+                 mL to US Fluid Volume Units                  
 --------------------------------------------------------------
-	mL:		250.0
-	tsp:		50.721000000000004
-	tbsp:		16.907
-	cup(s):		1.0566875
-	pint(s):	0.52834375
-	quart(s):	0.264171875
-	gallon(s):	0.06604296875
-	fl oz:		8.453514125822105
---------------------------------------------------------------
+	ml:                     250.0
+	tsp:                    50.721250000000005
+	tbsp:                   16.907083333333336
+	cup(s):                 1.0566927083333335
+	pint(s):                0.5283463541666668
+	quart(s):               0.2641731770833334
+	gallon(s):              0.06604329427083334
+	fl oz:                  8.453514125822105
 ```
 
 Comment your source code and describe your code to someone who may be viewing it for the first time. Also include your name, the date, your class section and the name of your program at the top of your file.
