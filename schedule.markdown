@@ -102,10 +102,8 @@ To do:
 
 ### Materials
 <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/03_module-2.pdf" download>Slides</a> 
-Code
 </div>
 </div>
-asdfkasdfhsadkfj 
 
 <!-- ------------------------------------------------ -->
 ## Week 3
@@ -130,8 +128,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-Slides  
-Code
+<a href="{{ site.url }}{{ site.baseurl }}/code/03-half-birthday.py" download><code>half-birthday.py</code></a>
 </div>
 </div>
 <br>
