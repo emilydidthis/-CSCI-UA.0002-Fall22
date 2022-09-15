@@ -37,7 +37,7 @@ D		63-66.9
 ```
 </div> -->
 
-Write a program that calculates the score you need to receive on the final exam to receive an inputted desired grade.
+Write a program that calculates the score you need to receive on the final exam to receive an inputted desired grade. Take user input for all values.
 <br>
 
 ```

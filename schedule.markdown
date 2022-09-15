@@ -164,8 +164,8 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-Slides  
-Code
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/05_module-3.pdf" download>Slides</a>
+<a href="{{ site.url }}{{ site.baseurl }}/code/05-shape-drawer.py" download><code>shape-drawer.py</code></a>
 </div>
 </div>
 
