@@ -188,11 +188,43 @@ nav {
 .assignment-page{
     width: 70%;
     border-left: 2px solid #2E38B7
-    h2, h3, p {
+   
+
+    h1, h2, h3, p {
         border-left: none;
         box-shadow: none;
         padding-left: 0;
         margin-left: 0;
+    }
+
+    // styling paragraphs to have double border
+    h3 ~ p, { 
+        border-left: 2px solid #A42EB7;
+        margin-left: 15px;
+        padding: 5px 15px;
+        // padding-bottom: 10px;
+        box-shadow: 
+            -13px 0 0 #FFF,
+            -15px 0 0 #000;
+    }
+
+    // only want for outtermost ul, not nested
+    ul:not(ul ul) { 
+        border-left: 2px solid #A42EB7;
+        margin-left: 15px;
+        padding: 5px 30px;
+        // padding-bottom: 10px;
+        box-shadow: 
+            -13px 0 0 #FFF,
+            -15px 0 0 #000;
+    }
+
+    ul ul {
+        padding-left: 15px;
+    }
+
+    img {
+        width: 70%;
     }
 
     // Code styling
@@ -211,16 +243,6 @@ nav {
         background-color: rgb(244, 244, 244);
         padding: 10px;
         margin-left: 15px;
-    }
-
-    h3 ~ p { 
-        border-left: 2px solid #A42EB7;
-        margin-left: 15px;
-        padding: 5px 15px;
-        // padding-bottom: 10px;
-        box-shadow: 
-            -13px 0 0 #FFF,
-            -15px 0 0 #000;
     }
 
     .section-break {

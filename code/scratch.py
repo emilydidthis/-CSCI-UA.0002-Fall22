@@ -1,69 +1,26 @@
-import random
-import turtle
+# Calculating a Bonus
 
-width = 100
+# initialize my variables
+bonus = 0
+percent = 0.01
 
-print("How many sides would you like your shape to be?")
-answer = input("Input a number between 3-5 or \
-type 'random' if you want to be surprised: ")
+# ask for a sales amount
+sales = int(input("Enter monthly sales:"))
 
-if answer == "random":
-    sides = random.randint(3,5)
-else:
-    sides = int(answer)
+# over 10,000 --> 500 bonus
+if sales >= 10000:
+    print("You made the quota")
+    bonus = 500 #update bonus
 
-#print(sides)
+if sales >= 50000:
+    percent = 0.05 #percent
 
-selection = input("Would you like a visual (v) or textual (t) \
-description of your shape?")
+# calculate commission:
+commission = sales * percent
 
-if selection == "t":
-    if sides == 3:
-        print("Your shape is a triangle.")
-    elif sides == 4:
-        print("Your shape is a quadrilateral.")
-    elif sides == 5:
-        print("Your shape is a pentagon.")
-else:
-    turtle.setup(500,500)
+print("Your total take home will be $" + \
+      str(sales + bonus + commission))
 
-    turtle.penup()
-    turtle.goto(-200, 200)
-    turtle.pendown()
 
-    if sides == 3:
-        # now draw a triangle
-        turtle.forward(100)
-        turtle.right(120)
-        turtle.forward(100)
-        turtle.right(120)
-        turtle.forward(100)
-        turtle.right(120)
-    elif sides == 4:
-        # draw a square here
-        turtle.forward(100)
-        turtle.right(90)
-        turtle.forward(100)
-        turtle.right(90)
-        turtle.forward(100)
-        turtle.right(90)
-        turtle.forward(100)
-        turtle.right(90)
-    else:
-        # draw the pentagon
-        turtle.forward(100)
-        turtle.right(360/5)
-        turtle.forward(100)
-        turtle.right(360/5)
-        turtle.forward(100)
-        turtle.right(360/5)
-        turtle.forward(100)
-        turtle.right(360/5)
-        turtle.forward(100)
-        turtle.right(360/5)
 
-        
-        
-
-    
     
