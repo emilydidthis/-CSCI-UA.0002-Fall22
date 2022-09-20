@@ -118,7 +118,7 @@ If you shared any code or helped out a group member with this project please be 
 <div class="section-break"><br><br></div>
 
 ### Problem #3: Sum of Place Values
-Write a program that prompts the user to enter two numbers. These numbers will always be >= 0 and <= 999. You can assume that the user will always supply you with a integers within this range. Next, compute the sum of the digits represented in each place value in that number. For example, if the numbers supplied are 123 and 456 you would compute the sum of the ones place (3+6), the sum of the tens place (2+5) and the sum of the hundreds place (1+4). Here are a few sample runnings of your program (user input is underlined):
+Write a program that prompts the user to enter two numbers. These numbers will always be >= 0 and <= 999. You can assume that the user will always supply you with a integers within this range. Next, compute the sum of the digits represented in each place value in that number. For example, if the numbers supplied are 123 and 456 you would compute the sum of the ones place (3+6), the sum of the tens place (2+5) and the sum of the hundreds place (1+4). Here are a few sample runnings of your program:
 
 ```
 Enter a number between 0 and 999: 123
@@ -126,16 +126,19 @@ Enter another number between 0 and 999: 456
 Sum of ones     = 3 + 6 = 9
 Sum of tens     = 2 + 5 = 7
 Sum of hundreds = 1 + 4 = 5
+-------------------------------------------
 Enter a number between 0 and 999: 0
 Enter another number between 0 and 999: 999
 Sum of ones     = 0 + 9 = 9
 Sum of tens     = 0 + 9 = 9
 Sum of hundreds = 0 + 9 = 9
+-------------------------------------------
 Enter a number between 0 and 999: 3
 Enter another number between 0 and 999: 12
 Sum of ones     = 3 + 2 = 5
 Sum of tens     = 0 + 1 = 1
 Sum of hundreds = 0 + 0 = 0
+-------------------------------------------
 Enter a number between 0 and 999: 982
 Enter another number between 0 and 999: 861
 Sum of ones     = 2 + 1 = 3
