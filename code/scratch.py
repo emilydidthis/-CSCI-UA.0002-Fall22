@@ -1,25 +1,19 @@
-# Calculating a Bonus
 
-# initialize my variables
-bonus = 0
-percent = 0.01
+# Data validations
 
-# ask for a sales amount
-sales = int(input("Enter monthly sales:"))
+# initialize total variable
+total = 0
 
-# over 10,000 --> 500 bonus
-if sales >= 10000:
-    print("You made the quota")
-    bonus = 500 #update bonus
+while True:
+    num = int(input("Input an integer to add: "))
 
-if sales >= 50000:
-    percent = 0.05 #percent
+    if num < 0:
+        print("Sorry, invalid number, try again.")
+        continue
+    else:
+        break
 
-# calculate commission:
-commission = sales * percent
-
-print("Your total take home will be $" + \
-      str(sales + bonus + commission))
+print(num)
 
 
 
