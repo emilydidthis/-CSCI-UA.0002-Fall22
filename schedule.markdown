@@ -192,8 +192,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/06-warm-up.pdf" download>Slides</a> 
-Code
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/06-workshop-2.pdf" download>Slides</a> 
 </div>
 </div>
 <br>
