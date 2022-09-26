@@ -48,6 +48,10 @@ Due date: Tuesday, September 20
 Assignment date: Tuesday, September 20  
 Due date: Tuesday, September 27
 
+## [**Assignment #4**]({{ site.url }}{{ site.baseurl }}/assignments/04.html) 
+Assignment date: Tuesday, September 27  
+Due date: Tuesday, October 3
+
 </div>
 
 
