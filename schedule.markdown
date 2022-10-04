@@ -227,7 +227,8 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/07-module-4.pdf" download>Slides</a> 
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/07-module-4.pdf">Slides</a> 
+<a href="{{ site.url }}{{ site.baseurl }}/code/05-shape-drawer.py"><code>shape-drawer.py</code></a>
 </div>
 </div>
 
@@ -254,13 +255,12 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-Slides  
-Code
+
 </div>
 </div>
 <br>
 <!-- ------------------------------------------------ -->
-Tuesday, September 29
+Thursday, September 29
 <div class="week" markdown="1">
 <div class="week-column topics" markdown="1">
 
@@ -282,7 +282,6 @@ To do:
 
 ### Materials
 <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/09-module4.pdf" download>Slides</a> 
-
 </div>
 </div>
 
@@ -318,8 +317,8 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-Slides  
-Code
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/10-module5.pdf" download>Slides</a>   
+
 </div>
 </div>
 <br>
