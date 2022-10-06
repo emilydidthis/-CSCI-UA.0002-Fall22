@@ -14,7 +14,7 @@ You may work by yourself or with a partner. Remember, collaborating just entails
 <br>
 <a href="#problem-1-pizza-party">Problem 1 | </a>
 <a href="#problem-2a-prime-number-finder">Problem 2 | </a>
-<a href="#problem-3-decimal-to-binary">Problem 3</a>
+<a href="#problem-3a-addition-table">Problem 3</a>
 
 <div class="section-break"><br></div>
 
