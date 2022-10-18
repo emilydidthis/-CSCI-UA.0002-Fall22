@@ -56,6 +56,10 @@ Due date: Tuesday, October 4
 Assignment date: Thursday, October 6  
 Due date: Tuesday, October 18
 
+## [**Assignment #6**]({{ site.url }}{{ site.baseurl }}/assignments/06.html) 
+Assignment date: Tuesday, October 18  
+Due date: Thursday, October 27
+
 </div>
 
 
