@@ -444,7 +444,8 @@ To do:
 
 ### Materials
 <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/14-modules-midterm-review.pdf">Slides</a>
-
+</div>
+</div>
 
 <!-- ------------------------------------------------ -->
 ## Week 9
