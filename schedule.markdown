@@ -417,8 +417,6 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-Slides  
-Code
 </div>
 </div>
 <br>
@@ -429,6 +427,8 @@ Thursday, October 20
 
 ### Topics
 - Functions Part II
+- Midterm Survey
+- Midterm Review Game
 </div>
 <div class="week-column assigned" markdown="1">
 
@@ -443,10 +443,8 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-Slides  
-Code
-</div>
-</div>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/14-modules-midterm-review.pdf">Slides</a>
+
 
 <!-- ------------------------------------------------ -->
 ## Week 9
