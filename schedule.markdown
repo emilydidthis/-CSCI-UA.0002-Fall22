@@ -500,8 +500,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-Slides  
-Code
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/15-module7.pdf">15-module7.pdf</a>
 </div>
 </div>
 <br>
