@@ -594,9 +594,9 @@ Enter a word to encode/decode: Hello World!
 * Shifted right: IZOrrunodgP$YK\hioXokr{#
 * Shifted right: #IZOrrunodgP$YK\hioXokr{
 * Shifted right: {#IZOrrunodgP$YK\hioXokr
-```
-```
 Enter an encoding pattern, 'end' to end: LLLDDDFX
+```
+```
 Enter a word to encode/decode: {#IZOrrunodgP$YK\hioXokr
 * Shifted left: #IZOrrunodgP$YK\hioXokr{
 * Shifted left: IZOrrunodgP$YK\hioXokr{#
