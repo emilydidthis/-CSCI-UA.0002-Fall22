@@ -65,7 +65,7 @@ Assignment date: Thursday, November 3
 Due date: Thursday, November 10
 
 
-## [**Assignment #7**]({{ site.url }}{{ site.baseurl }}/assignments/08.html) 
+## [**Assignment #8**]({{ site.url }}{{ site.baseurl }}/assignments/08.html) 
 Assignment date: Thursday, November 10  
 Due date: Thursday, November 17
 
