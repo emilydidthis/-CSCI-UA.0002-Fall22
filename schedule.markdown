@@ -557,8 +557,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-Slides  
-Code
+
 </div>
 </div>
 <br>
@@ -584,8 +583,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-Slides  
-Code
+
 </div>
 </div>
 
@@ -615,7 +613,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-Slides  
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module9.pdf">module8.pdf</a>
 Code
 </div>
 </div>
