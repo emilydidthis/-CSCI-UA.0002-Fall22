@@ -69,6 +69,10 @@ Due date: Thursday, November 10
 Assignment date: Thursday, November 10  
 Due date: Thursday, November 17
 
+## [**Assignment #9**]({{ site.url }}{{ site.baseurl }}/assignments/08.html) 
+Assignment date: Thursday, November 17  
+Due date: Thursday, November 29
+
 </div>
 
 
