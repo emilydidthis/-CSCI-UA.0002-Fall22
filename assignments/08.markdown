@@ -107,7 +107,7 @@ Enter a product cost: 0
 Invalid cost. Try again.
 Enter a product cost: 1.49
 How many of these products do we have? -5
-Invalid quantitiy. Try again.
+Invalid quantity. Try again.
 How many of these products do we have? 100
 Product added!
 
@@ -116,7 +116,7 @@ Product                   Price  Quantity
 soft drink                 0.99        10    
 onion rings                1.29         5     
 small fries                1.49        20    
-dbl onion rings            1.49   100   
+dbl onion rings            1.49       100   
 
 (s)earch, (l)ist, (a)dd or (q)uit: s
 Enter a product name: dbl onion rings
