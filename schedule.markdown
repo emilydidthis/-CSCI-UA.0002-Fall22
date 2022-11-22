@@ -668,6 +668,7 @@ To do:
 
 ### Materials
 <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module10.pdf">module10.pdf</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/class-roster-majors-years.csv">roster.csv</a>
 </div>
 </div>
 <br>
