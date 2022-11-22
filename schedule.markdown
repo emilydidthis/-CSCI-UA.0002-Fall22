@@ -669,6 +669,8 @@ To do:
 ### Materials
 <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/module-10.pdf">module-10.pdf</a>
 <a href="{{ site.url }}{{ site.baseurl }}/assets/slides/class-roster-majors-years.csv">roster.csv</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/roster.py">roster.py</a>
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/sorting-lists-101.py">sorting-lists-101.py</a>
 </div>
 </div>
 <br>
