@@ -707,7 +707,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/announcements.pdf">end-of-semester-announcements</a>
 </div>
 </div>
 <br>
