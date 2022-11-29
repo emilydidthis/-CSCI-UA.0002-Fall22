@@ -661,8 +661,8 @@ Due:
 (Third Edition: Chapter 9; Second Edition: Chapter 10)
 
 To do:  
-- [Self-Paced Learning Module #11](https://cs.nyu.edu/elearning/CSCI_UA_0002/module11.php)
-- [Quiz #11](https://brightspace.nyu.edu/d2l/home/223178)
+- [Self-Paced Learning Module #11 (Optional)](https://cs.nyu.edu/elearning/CSCI_UA_0002/module11.php)
+- [Quiz #11 (Optional)](https://brightspace.nyu.edu/d2l/home/223178)
 </div>
 <div class="week-column materials" markdown="1">
 
@@ -717,13 +717,14 @@ Thursday, December 1
 <div class="week-column topics" markdown="1">
 
 ### Topics
-- Object Oriented Programming
+- **Review for final exam**
+- Object Oriented Programming (if we have time)
 </div>
 <div class="week-column assigned" markdown="1">
 
 ### Assigned
 Due:
-- [Self-Paced Learning Module #11](https://cs.nyu.edu/elearning/CSCI_UA_0002/module11.php)
+- [Self-Paced Learning Module #11 (Optional)](https://cs.nyu.edu/elearning/CSCI_UA_0002/module11.php)
 - Gaddis (textbook) Chapter #10
 (Third Edition: Chapter 10;Second Edition: Chapter 11)
 
@@ -745,7 +746,7 @@ Tuesday, December 6
 <div class="week-column topics" markdown="1">
 
 ### Topics
-- In-class programming assignment
+- **Review for final exam**
 </div>
 <div class="week-column assigned" markdown="1">
 
@@ -756,7 +757,7 @@ Due:
 (Third Edition: Chapter 10;Second Edition: Chapter 11)
 
 To do:  
-- Assignment #11
+- Assignment #11 (Optional): due day of Final Exam
 </div>
 <div class="week-column materials" markdown="1">
 
@@ -772,7 +773,8 @@ Thursday, December 8
 <div class="week-column topics" markdown="1">
 
 ### Topics
-- **Review for final exam**
+- **NO CLASS**
+- [Office Hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUpJYlQwSjBaTTlufGRlZmF1bHR8OTk0MWM2MDQ2YzZkMjZhMjFhNzBmYjE2YTU1M2ZjM2I) from 7pm - 9pm on Zoom
 </div>
 
 </div>
@@ -784,18 +786,22 @@ Tuesday, December 13
 <div class="week-column topics" markdown="1">
 
 ### Topics
-- **Review for final exam**
-- Course Wrap-Up
+- **NO CLASS**
+- [Office Hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUpJYlQwSjBaTTlufGRlZmF1bHR8OTk0MWM2MDQ2YzZkMjZhMjFhNzBmYjE2YTU1M2ZjM2I) from 7pm - 9pm on Zoom
 </div>
 </div>
 <br>
 <!-- ------------------------------------------------ -->
-Thursday, December 15
+Friday, December 16
 <div class="week" markdown="1">
 <div class="week-column topics" markdown="1">
 
 ### Topics
-- [**Final Exam**](https://cs.nyu.edu/dynamic/courses/exams/?semester=fall_2022) (scheduled by the CS Department)
+**FINAL EXAM**
+- Friday, December 16
+- 6pm – 7:50PM 
+- [Zoom Link](https://nyu.zoom.us/my/emilyzhao)
+- GCASL 361 will be available to you
 </div>
 
 </div>
