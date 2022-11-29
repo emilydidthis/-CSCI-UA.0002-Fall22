@@ -5,6 +5,8 @@ title: assignment-08
 
 ---
 
+## Assignment #8
+
 ### Part 1: Array-ders of the Lost Ark!
 Help Indiana "Python" Jones to solve a variety of list-based challenges. The game can be found [**here**](http://cs.nyu.edu/elearning/CSCI_UA_0002/PythonArrayders).
 

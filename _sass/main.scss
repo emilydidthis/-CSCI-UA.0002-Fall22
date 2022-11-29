@@ -187,6 +187,7 @@ nav {
 // Assignments Pages
 .assignment-page{
     width: 70%;
+    min-width: 850px;
     border-left: 2px solid #2E38B7
    
 
@@ -198,7 +199,7 @@ nav {
     }
 
     // styling paragraphs to have double border
-    h3 ~ p, { 
+    h3 ~ p { 
         border-left: 2px solid #A42EB7;
         margin-left: 15px;
         padding: 5px 15px;
@@ -244,6 +245,7 @@ nav {
         background-color: rgb(244, 244, 244);
         padding: 10px;
         margin-left: 15px;
+        white-space: pre-wrap;  
     }
 
     .section-break {
@@ -290,6 +292,7 @@ code:not(pre code) {
     }
 
     .assignment-page{
+        min-width: auto;
         width: 100%;
     }
 
