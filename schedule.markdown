@@ -734,8 +734,7 @@ To do:
 <div class="week-column materials" markdown="1">
 
 ### Materials
-Slides  
-Code
+<a href="{{ site.url }}{{ site.baseurl }}/assets/slides/finals-review-1.pdf">Final Review 1</a>
 </div>
 </div>
 
